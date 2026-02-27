@@ -1,4 +1,4 @@
-## Hi there <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="30" height="30"></picture>
+## Hi there <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="28" height="28"></picture>
 <!--
 **gopisainath1718/gopisainath1718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
