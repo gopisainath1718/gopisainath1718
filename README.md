@@ -2,7 +2,7 @@
 
 I'm Gopi, a robotics engineer in San Jose.
 
-
+Founding engineer at Rainier Labs, where I build perception and state-estimation systems to help robot localize reliably and navigate in the real world.
 <!--
 
 **gopisainath1718/gopisainath1718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
