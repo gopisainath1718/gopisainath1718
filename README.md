@@ -3,7 +3,6 @@
 I'm Gopi, a robotics engineer in San Jose.
 
 Founding engineer at Rainier Labs, where I build multi-sensor state estimation and perception pipelines.
-
 I have Masters in Robotics from Northeastern University.
 
 **📫 How to reach me:**
