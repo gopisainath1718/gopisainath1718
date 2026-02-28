@@ -3,7 +3,8 @@
 I'm Gopi, a robotics engineer in San Jose.
 
 Founding engineer at Rainier Labs, where I build multi-sensor state estimation and perception pipelines.
-I have Masters in Robtics from Northeastern University.
+
+I have Masters in Robotics from Northeastern University.
 <!--
 
 **gopisainath1718/gopisainath1718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
