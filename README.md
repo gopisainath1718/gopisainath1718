@@ -11,7 +11,7 @@ I have Masters in Robotics from Northeastern University.
   <a href="https://www.linkedin.com/in/gopisainath/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" style="vertical-align:middle;" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:gopisainath1718@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="24" style="vertical-align:middle;" />
   </a>
