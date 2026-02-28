@@ -6,12 +6,16 @@ Founding engineer at Rainier Labs, where I build multi-sensor state estimation a
 
 I have Masters in Robotics from Northeastern University.
 
-#### 📫 How to reach me:
-<a href="https://www.linkedin.com/in/gopisainath/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" />
-</a> <a href="mailto:gopisainath1718@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="24" />
-</a>
+**📫 How to reach me:**
+<p>
+  <a href="https://www.linkedin.com/in/gopisainath/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" style="vertical-align:middle;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:gopisainath1718@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="24" style="vertical-align:middle;" />
+  </a>
+</p>
 <!--
 
 **gopisainath1718/gopisainath1718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
