@@ -9,6 +9,8 @@ I have Masters in Robotics from Northeastern University.
 #### 📫 How to reach me:
 <a href="https://www.linkedin.com/in/gopisainath/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" />
+</a><a href="mailto:your-email@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="24" />
 </a>
 <!--
 
