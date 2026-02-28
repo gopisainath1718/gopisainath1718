@@ -7,11 +7,11 @@ I have Masters in Robotics from Northeastern University.
 
 **📫 How to reach me:**
 <p>
-  <a href="https://www.linkedin.com/in/gopisainath/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align:middle;" />
+  <a href="https://www.linkedin.com/in/gopisainath/" style="text-decoration:none;" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" />
   </a>
   &nbsp;
-  <a href="mailto:gopisainath1718@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" style="vertical-align:middle;" />
+  <a href="mailto:gopisainath1718@gmail.com" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" />
   </a>
 </p>
